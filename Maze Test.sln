@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{856086CC-FE9C-6AAC-B589-9A216E4364A1}") = "Maze Test", "Assembly-CSharp.csproj", "{95C368B6-AC3C-4891-985F-7DD1B62A0197}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95C368B6-AC3C-4891-985F-7DD1B62A0197}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95C368B6-AC3C-4891-985F-7DD1B62A0197}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95C368B6-AC3C-4891-985F-7DD1B62A0197}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95C368B6-AC3C-4891-985F-7DD1B62A0197}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
