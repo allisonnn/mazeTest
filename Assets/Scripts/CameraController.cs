@@ -10,7 +10,8 @@ public class CameraController : MonoBehaviour {
 	// Use this for initialization
 	void Start ()
 	{
-		offset = Vector3.zero;//transform.position - player.transform.position;
+//		offset = Vector3.zero;//transform.position - player.transform.position;
+		offset = transform.position - player.transform.position;
 	}
 	
 	// Update is called once per frame
